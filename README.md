@@ -71,8 +71,8 @@ By the end of the course, the students will design, program, and analyze algorit
 [02 Linear Algebra](slides/02%20-%20Basic%20Linear%20Algebra.pdf)</br>
 [03 C++](slides/03%20-%20C%2B%2B.pdf)</br>
 [04 Images](slides/04%20-%20Images.pdf)</br>
-<!--[05 Ray Tracing](slides/05%20-%20Ray%20Tracing.pdf)</br>
-[06 Spatial Data Structures](slides/06%20-%20Spatial%20Data%20Structures.pdf)</br>
+[05 Ray Tracing](slides/05%20-%20Ray%20Tracing.pdf)</br>
+<!--[06 Spatial Data Structures](slides/06%20-%20Spatial%20Data%20Structures.pdf)</br>
 [07 Procedural Synthesis](slides/07%20-%20Procedural%20Synthesis.pdf)</br>
 [08 2D Transformations](slides/08%20-%202D%20Transformations.pdf)</br>
 [09 Viewing Transformations](slides/09%20-%20Viewing%20Transformations.pdf)</br>
