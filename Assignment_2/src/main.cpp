@@ -18,8 +18,8 @@ void raytrace_sphere()
     std::cout << "Simple ray tracer, one sphere with orthographic projection" << std::endl;
 
     const std::string filename("sphere_orthographic.png");
-    MatrixXd C = MatrixXd::Zero(800, 800); // Store the color
-    MatrixXd A = MatrixXd::Zero(800, 800); // Store the alpha mask
+    MatrixXd C = MatrixXd::Zero(4000, 4000); // Store the color
+    MatrixXd A = MatrixXd::Zero(4000, 4000); // Store the alpha mask
 
     const Vector3d camera_origin(0, 0, 3);
     const Vector3d camera_view_direction(0, 0, -1);
@@ -71,7 +71,7 @@ void raytrace_sphere()
     }
 
     // Save to png
-    write_matrix_to_png(C, C, C, A, filename);
+    write_matrix_to_png(C, MatrixXd::Zero(400, 400), C, A, filename);
 }
 
 void raytrace_parallelogram()
