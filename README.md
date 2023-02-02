@@ -72,9 +72,9 @@ By the end of the course, the students will design, program, and analyze algorit
 [03 C++](slides/03%20-%20C%2B%2B.pdf)</br>
 [04 Images](slides/04%20-%20Images.pdf)</br>
 [05 Ray Tracing](slides/05%20-%20Ray%20Tracing.pdf)</br>
-<!--[06 Spatial Data Structures](slides/06%20-%20Spatial%20Data%20Structures.pdf)</br>
+[06 Spatial Data Structures](slides/06%20-%20Spatial%20Data%20Structures.pdf)</br>
 [07 Procedural Synthesis](slides/07%20-%20Procedural%20Synthesis.pdf)</br>
-[08 2D Transformations](slides/08%20-%202D%20Transformations.pdf)</br>
+<!--[08 2D Transformations](slides/08%20-%202D%20Transformations.pdf)</br>
 [09 Viewing Transformations](slides/09%20-%20Viewing%20Transformations.pdf)</br>
 [10 Rasterization Theory](slides/10%20-%20Rasterization%20-%20Theory.pdf)</br>
 [11 Rasterization Implementation](slides/11%20-%20Rasterization%20-%20Implementation.pdf)</br>
