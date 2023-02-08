@@ -236,7 +236,6 @@ void raytrace_shading()
             // Intersect with the sphere
             // NOTE: this is a special case of a sphere centered in the origin and for orthographic rays aligned with the z axis
             Vector2d ray_on_xy(ray_origin(0), ray_origin(1));
-            const double sphere_radius = 0.9;
 
             if (ray_on_xy.norm() < sphere_radius)
             {
