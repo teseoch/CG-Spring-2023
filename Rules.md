@@ -47,11 +47,8 @@ What to Hand In
 
 The delivery of the exercises is done using brightspace. The repository should follow the template provided in the starter code, and it must contain:
 
-- A short report (in pdf or text/markdown format) containing a description of what you’ve implemented, as well as explanations/comments on your results. The report must include the name and version of both your operating system and of the compiler that you used.
+- The source code, together with any changed CMake project files, but excluding all compiled binaries/libraries. Specifically, do not include the `build/` directory. The code must successfully compile on your operating system of choice: code that does not compile will not be awarded any point, even if it contains a partial implementation of the solution.
 
-- The source code, together with the necessary CMake project files, but excluding all compiled binaries/libraries. Specifically, do not include the `build/` directory. The code must successfully compile on your operating system of choice: code that does not compile will not be awarded any point, even if it contains a partial implementation of the solution.
-
-- Screenshots of all your results with associated descriptions in the report file.
 
 Note: It will not be necessary to use additional external software for your assignments. If you find that you need to use additional binaries / external libraries other than those provided by us, please first get approval by sending a message on teams.
 
